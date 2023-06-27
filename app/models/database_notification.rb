@@ -1,0 +1,2 @@
+class DatabaseNotification < ApplicationRecord
+end
